@@ -1,0 +1,11 @@
+.buttonStyle {
+    padding: 12px 24px;
+    margin-right: 24px;
+    background-color: #CFCFCF;
+    border-radius: 12px;
+    border:none;
+}
+
+.buttonStyle:active {
+    background-color: #B47AFF;
+}
