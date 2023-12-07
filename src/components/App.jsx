@@ -46,9 +46,6 @@ class App extends Component{
         alignItems: 'center',
         fontSize: 24,
         color: '#010101',
-        border: '1px solid #656565',
-        height: 'inline',
-        width: 'inline',
         margin: 'auto'
       }}
     >
